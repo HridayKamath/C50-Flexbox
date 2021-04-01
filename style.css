@@ -1,0 +1,43 @@
+
+   P{
+       border: solid;
+       border-color: green;
+       text-decoration-style: bold;
+       
+   }
+   
+   h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.myClass{
+    color: gold;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    text-decoration-style: green;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+IMG{
+    height: 100px;
+    width: 100px;
+    
+}
+.side-description{
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
